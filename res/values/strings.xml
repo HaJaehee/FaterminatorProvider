@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Faterminator(p)</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ConnectionEstablishedMsg">Faterminator Connection established with RemotePeer</string>
+    <string name="Faterminator">Faterminator</string>
+    <string name="title_activity_message_viewer">MessageViewerActivity</string>
+
+</resources>
